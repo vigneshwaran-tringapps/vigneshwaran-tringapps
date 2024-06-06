@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Vigneshwaran</h2>
 <h3 align="left">A passionate fullstack developer at Tringapps.Inc</h3>
 
-- 🌱 I’m currently learning **microservices**
+- 🌱 I’m currently learning **microservices**, **Kafka**
 - 👯 I’m looking to collaborate on **graphql projects**
 - 💬 Ask me about **react, nestJs, Typeorm, graphql**
 - 📫 How to reach me **vicky.ravi26@gmail.com**
