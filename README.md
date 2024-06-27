@@ -2,8 +2,8 @@
 <h3 align="left">A passionate fullstack developer at Tringapps.Inc</h3>
 
 - 🌱 I’m currently learning **microservices**, **Kafka**
-- 👯 I’m looking to collaborate on **graphql projects**
-- 💬 Ask me about **react, nestJs, Typeorm, graphql**
+- 👯 I’m looking to collaborate on **graphql/Rest projects**
+- 💬 Ask me about **NestJs, Typeorm, graphql, React**
 - 📫 How to reach me **vicky.ravi26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -86,8 +86,8 @@
     </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshwaran-tringapps&show_icons=true&locale=en" alt="vigneshwaran-tringapps" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshwaran2697&show_icons=true&locale=en" alt="vigneshwaran2697" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaran-tringapps&" alt="vigneshwaran-tringapps" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaran2697&" alt="vigneshwaran2697" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaran-tringapps" alt="vigneshwaran-tringapps" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshwaran2697" alt="vigneshwaran2697" /></a> </p>
